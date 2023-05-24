@@ -1,4 +1,4 @@
-let x = 2>4;
+let x = 2 > 4;
 if (typeof(x) === "number" && !isNaN(x)) {
   console.log(`${x} - число`);
 }
